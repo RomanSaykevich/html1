@@ -1,0 +1,32 @@
+<style>
+
+p {
+    background: #797676;
+    color: #295711;
+}
+.rom {
+    background: #7c5555;
+    color: #efebeb;
+}
+h2.wer {
+    background: cadetblue;
+}
+h2{
+    color: #2638af;
+}
+#q{
+    color: #797676;
+}
+.w{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: 13px solid darkred;
+}
+h1{
+    text-align: center;
+}
+</style>
