@@ -1,0 +1,40 @@
+.conteiner{
+    border-radius: 10px;
+    border: 5px solid #504f4a;
+    padding: 5px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.q{
+    width: 1000px;
+}
+.w{
+    height: 150px;
+    width: 100%;
+}
+.e{
+    background: #797676;
+}
+.item{
+    display: flex;
+    margin-top: 5px;
+}
+.root{
+    width: 300px;
+    height: 510px;
+    background: #797676;
+    margin-right: 5px;
+}
+.items{
+    display: block;
+}
+
+.itemss{
+    width: 700px;
+    height: 250px;
+    background: #797676;
+    margin-top: 5px;
+}
+.boot{
+    margin-top: 5px;
+}

@@ -1,0 +1,29 @@
+.conteiner{
+    padding: 5px;
+    margin: auto;
+    border-radius: 10px;
+    border: 5px solid #504f4a;
+}
+.heat{
+    height: 200px;
+    margin-bottom: 5px;
+}
+.items{
+    width: 700px;
+    margin-right: 5px;
+}
+.itemss{
+    width: 300px;
+}
+.item{
+    display: flex;
+}
+.qqq{
+    width: 1000px;
+}
+.www{
+    height: 400px;
+}
+.eee{
+    background: #797676;
+}

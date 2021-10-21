@@ -1,0 +1,31 @@
+.conteiner{
+
+    border: 5px solid #504f4a;
+    padding: 5px;
+    margin: auto;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 1000px;
+}
+.q{
+    width: 100%;
+}
+.w{
+    background: #797676;
+}
+.head{
+    height: 200px;
+}
+.chrom{
+    display: flex;
+    margin-top: 5px;
+}
+.item{
+    width: 33.33%;
+    height: 150px;
+    margin-right: 5px;
+}
+.contact{
+    height: 300px;
+    margin-top: 5px;
+}
