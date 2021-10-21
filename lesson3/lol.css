@@ -12,11 +12,17 @@
 
 body {
     background: #e1d66f;
-    box-sizing: border-box;
+
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQovPxKN81FMV2bPw76f-qhXBAA2hCWKvfA&usqp=CAU");
+
 }
 
 h1 {
-    background: #e1d66f;
+h1 {color: #CD6829;}
+div {
+    background: #CDD6DB;
+    opacity: .3;
+}
 }
 
 .c1 {
@@ -25,6 +31,7 @@ h1 {
     border-left: 5px solid #d09139;
     border-radius: 15px;
     padding-left: 15px;
+
 }
 
 .c2 {
