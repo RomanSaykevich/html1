@@ -1,0 +1,32 @@
+.conteiner{
+    border: 5px solid #504f4a;
+    padding: 5px;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 1000px;
+}
+.q{
+    display: flex;
+}
+.w{
+    column-gap: 5px;
+}
+.e{
+    background: #797676;
+}
+.item{
+    width: 50%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+.kabobs{
+    height: 200px;
+}
+.down{
+}
+.down__item{
+    width: 33.33%;
+    height: 250px;
+    margin-top: 5px;
+}

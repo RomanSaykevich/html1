@@ -1,0 +1,41 @@
+.conteiner{
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+    box-sizing: border-box;
+    width: 1000px;
+    border: 5px solid #504f4a;
+}
+.q{
+    display: flex;
+}
+.w{
+    background: #797676;
+}
+.e{
+    column-gap: 5px;
+}
+.r{
+    flex-grow: 1;
+}
+.t{
+    row-gap: 5px;
+}
+.heeh{
+    height: 100px;
+    margin-bottom: 5px;
+}
+.left{
+    flex-direction: column;
+    width: 80%;
+}
+.left1{
+    flex-wrap: wrap;
+}
+.item{
+    width: 32%;
+    height: 150px;
+}
+.right{
+    width: 20%;
+}
