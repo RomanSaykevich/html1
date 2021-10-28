@@ -1,0 +1,224 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Tinos', serif;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header{
+    height: 100vh;
+    background: url("image/bg.png") no-repeat center/cover;
+}
+.header_top{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    column-gap: 23px;
+    border-right: 2px solid #FFFFFF;
+    padding-right: 25px;
+    height: 70px;
+    align-items: center;
+
+}
+.nav_item img{
+    width: 20px;
+}
+.nav_item a{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header_menu{
+    display: flex;
+    align-items: center;
+    column-gap: 35px;
+
+}
+.header_contact{
+    display: flex;
+    column-gap: 45px;
+}
+.header_phone{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    width: 150px;
+}
+
+.header_button{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 0 30px;
+    background: #FF7400;
+    height: 47px;
+    border: none;
+    cursor: pointer;
+}
+.header_title{
+    margin-top: 203px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.header_title h2{
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+    margin-left: 24px;
+}
+.header_title h1{
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+.header_title p{
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_title p::before,.header_title p::after{
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background: #C4C4C4;
+}
+.header_title p::before{
+    margin-right: 10px;
+}
+.header_title p::after{
+    margin-left: 10px;
+}
+.header_main header_button{
+    top: 35px;
+}
+.header_main{
+    margin-right: 709px;
+}
+.header_button{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 0 30px;
+    background: #FF7400;
+    height: 47px;
+    border: none;
+    cursor: pointer;
+}
+.cc{
+    padding-top: 21px;
+}
+.nav_btn_mobile{
+    display: none;
+}
+.heder_down{
+    display: flex;
+    justify-content: space-around;
+    column-gap: 50px;
+    padding: 75px;
+}
+.down_item{
+    width: 300px;
+    height: 300px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px;
+}
+.h{
+    display: flex;
+    padding-left: 22px;
+}
+
+.down_item h2{
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+
+.down_item h3{
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #BC9060;
+    margin-left: 10px;
+}
+.down_item p{
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #656363;
+}
+.a{
+    margin-left: 50px;
+}
+.b{
+    margin-left: 100px;
+}
