@@ -1,14 +1,6 @@
 @media screen and (max-width: 400px) {
     .header_menu{
         display: none;
-        position: absolute;
-        flex-direction: column;
-        top: 65px;
-        background: black;
-        height: 93vh;
-        width: 103%;
-        left: -4px;
-        padding-top: 50px;
     }
     .nav{
         flex-direction: column;

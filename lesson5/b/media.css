@@ -1,0 +1,141 @@
+@media screen and (max-width: 400px){
+    .hed{
+        max-width: 400px;
+        background: #FF7400;
+    }
+    .hed_item{
+        background: yellow;
+    }
+    .conteiner_top{
+        max-width: 400px;
+        background: yellow;
+    }
+    .top_left{
+        background: #FF7400;
+    }
+    .top{
+        padding-left: 100px;
+    }
+    .cesh_item{
+        display: none;
+    }
+    .tex{
+        background: #FF7400;
+    }
+    .tex_down{
+        background: yellow;
+    }
+    .tex_centr h1{
+        text-align: center;
+        color: yellow;
+    }
+    .tex_centr p{
+        text-align: center;
+        color: yellow;
+    }
+    .header{
+        background: yellow;
+        /*display: none;*/
+        max-width: 400px;
+    }
+    .header_a{
+        display: block;
+        border: 5px solid #FF7400;
+    }
+
+    .header_item p{
+        display: none;
+    }
+   .header_item{
+       display: block;
+       background: #FF7400;
+   }
+   .body{
+       background: #FF7400;
+   }
+   .media{
+       display: none;
+   }
+    .main_body p{
+        padding-right: 40px;
+        color: yellow;
+    }
+    .body_b11{
+        background: yellow;
+    }
+
+    .solid_centr_body{
+        margin-top: 30px;
+        border: 5px solid yellow;
+    }
+    .div_div h2{
+        color: #FF7400;
+    }
+    .header_b h2{
+        color: #FF7400;
+    }
+    .div{
+        background: yellow;
+    }
+    .div_item_div{
+        border: 5px solid #FF7400;
+    }
+    .div_item_divv{
+        border-top: 5px solid #FF7400;
+    }
+    .item_a__{
+        background: #FF7400;
+    }
+    .item_fi{
+        background: #FF7400;
+    }
+    .item_di{
+        background: #FF7400;
+    }
+    .div_down{
+        background: #FF7400;
+    }
+    .down_right{
+        background: #FF7400;
+    }
+    .div_text h4{
+        color: #FF7400;
+    }
+    .div_text p{
+        color: #FF7400;
+    }
+    .down{
+        background: yellow;
+    }
+    .down_le{
+        background: #FF7400;
+        width: 100px;
+        height: 100px;
+    }
+    .down_ri{
+        background: #b4a598;
+        width: 100px;
+        height: 100px;
+    }
+    .le_le p{
+        display: none;
+    }
+    .le_le h2{
+        color: yellow;
+    }
+    .le_ri{
+        display: none;
+    }
+    .le_le_{
+        display: none;
+    }
+    .end{
+        background: #FF7400;
+    }
+    .end_item{
+        background: yellow;
+    }
+    .end_down{
+        background: yellow;
+    }
+}
