@@ -4,7 +4,7 @@
     padding: 0 20px;
 }
 .header{
-    height: 100vh;
+
     background: url("image/bg.png") center/cover;
 }
 .nav__item img {
